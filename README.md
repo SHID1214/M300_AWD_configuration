@@ -15,7 +15,7 @@
     [update_manager M300_AWD_configuration]
     type: git_repo
     channel: dev
-    path: ~/M300_configuration
+    path: ~/M300_AWD_configuration
     origin: https://github.com/MOMENT3D/M300_AWD_configuration.git
     managed_services: klipper
     primary_branch: main
